@@ -187,3 +187,5 @@ Traffic light color is yellow
 r003xx-77 ( 1, 4 )
 Turn off the system
 ```
+---
+### Автор - https://vk.com/aptekkkar
