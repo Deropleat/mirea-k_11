@@ -30,8 +30,7 @@ void cl_base::setup_object_connection(cl_object_signal p_object_signal, cl_objec
 	if (!p_target_object) p_target_object = this;
 	for (size_t i = 0; i < object_connections.size(); i++) if (object_connections.at(i)->p_signal == p_object_signal && object_connections.at(i)->p_target == p_target_object && object_connections.at(i)->p_handler == p_object_handler) return;
 
-	cl_object_connection* connection;
-	connection = new cl_object_connection();
+	cl_object_connection* connection = new cl_object_connection();
 	connection->p_signal = p_object_signal;
 	connection->p_target = p_target_object;
 	connection->p_handler = p_object_handler;
