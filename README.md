@@ -188,4 +188,5 @@ r003xx-77 ( 1, 4 )
 Turn off the system
 ```
 ---
-### Автор - https://vk.com/aptekkkar
+### Автор - https://vk.com/aptekkkar 
+   + Прямой путь по ID: https://vk.com/id169607065
