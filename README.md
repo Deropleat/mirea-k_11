@@ -188,5 +188,5 @@ r003xx-77 ( 1, 4 )
 Turn off the system
 ```
 ---
-### Автор - https://vk.com/aptekkkar / t.me/glaucine 
+### Автор - https://vk.com/aptekkkar / https://t.me/glaucine 
    + Прямой путь по ID: https://vk.com/id169607065
